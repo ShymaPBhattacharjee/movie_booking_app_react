@@ -1,0 +1,40 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "rating": "3.8",
+      "date": "27-09-2021",
+      "name": "Spider Man No Way Home",
+      "image_url": "https://static2.srcdn.com/wordpress/wp-content/uploads/2021/02/Spider-man-no-way-home.jpg",
+      "runtime": "3hrs 22 min",
+      "Price": "180"
+    },
+    {
+      "id": 2,
+      "date": "05-10-2021",
+      "rating": "4.2",
+      "name": "Avengers End Game",
+      "image_url": "https://1.bp.blogspot.com/-4G7WTxOOTGk/XKtRRhBxNVI/AAAAAAAABLI/QJHExo0GylQ7q96LVQpQu9Pso3adD8-MQCLcBGAs/s1600/Avengers-Endgame-2019-Poster-Wallpaper.jpg",
+      "runtime": "3hrs 22 min",
+      "Price": "200"
+    },
+    {
+      "id": 3,
+      "date": "11-10-2021",
+      "rating": "3.2",
+      "name": "Robo 2.0",
+      "image_url": "http://telugupremiere.com/wp-content/uploads/2018/11/Robo-2.0.jpg",
+      "runtime": "3hrs 37 min",
+      "Price": "150"
+    }
+  ],
+  "users": [
+   
+    
+    {
+      "none of the timings": "",
+      "id": 101
+    }
+    
+  ]
+}
